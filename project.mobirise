@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portefólio-GLPM",
-    "currentPage": "sobre.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 31,
     "versionPublish": "4.0.17",
@@ -737,7 +737,7 @@
         }
       ]
     },
-    "sobre.html": {
+    "page1.html": {
       "settings": {
         "meta_descr": "",
         "title": "Sobre",
