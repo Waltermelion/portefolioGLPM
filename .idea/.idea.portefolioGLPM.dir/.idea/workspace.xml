@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e294975b-961f-44d2-904f-1381d5499d28" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.portefolioGLPM.dir/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.portefolioGLPM.dir/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.portefolioGLPM.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.portefolioGLPM.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../the-aftermath/The Aftermath/Assets/Scripts/labkey.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="210Qd8UIZt4hCbYgo30WK7UUEEa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637075670861</updated>
-      <workItem from="1637075670863" duration="305000" />
+      <workItem from="1637075670863" duration="788000" />
     </task>
     <servers />
   </component>
@@ -40,6 +43,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
